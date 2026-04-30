@@ -1,0 +1,11 @@
+plugins{
+       id'application'
+      }
+
+repositories{
+           mavencentre()
+           }
+
+application{
+            class_Main='com.example.main'
+            }
